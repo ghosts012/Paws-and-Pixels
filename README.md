@@ -19,4 +19,3 @@ For our machine learning model, we're going to be using a pretrained deep learni
 
 The process of using a pretrained model and adapting it to your own problem is called **transfer learning**. We do this because rather than train our own model from scratch (could be timely and expensive), we leverage the patterns of another model which has been trained to classify images.
 
-## Getting our workspace ready
